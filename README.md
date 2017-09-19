@@ -1,4 +1,4 @@
-This is the third and final step of building a programming language; the intermediate code compiler. The main runnable class is Parser.java. The other classes define all the symbols and structures of the sample language.
+This is the third and final step of building a programming language; the intermediate code compiler. The main runnable class is Compiler.java. The other classes define all the symbols and structures of the sample language.
 
 Program input:
 Stream of text/symbols/tokens that make up your program in a txtfile.
